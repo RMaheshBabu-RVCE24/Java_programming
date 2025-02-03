@@ -1,3 +1,7 @@
+/* problem-1: Votting in India
+conditions: Age>=18
+            Citizen=Indian
+*/
 public class Main {
     public static void main(String[] args) {
         int age = 20;
